@@ -32,8 +32,8 @@ namespace OMGYavuz
 
         private void buttonGGTBerechnen_Click(object sender, EventArgs e)
         {
-            int zahl1 = int.Parse(textBoxZahl1.Text);
-            int zahl2 = int.Parse(textBoxZahl2.Text);
+            int zahl1 = int.Parse(textBoxZahl2.Text);
+            int zahl2 = int.Parse(textBoxZahl1.Text);
 
             controller.gGTBestimmen(zahl1, zahl2);
         }

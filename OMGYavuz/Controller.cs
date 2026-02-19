@@ -29,6 +29,7 @@
             }
 
             view.anzeigen(zahl1);
+            //test
         }
     }
 }
