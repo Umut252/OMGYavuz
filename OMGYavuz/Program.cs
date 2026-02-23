@@ -28,7 +28,7 @@ namespace OMGYavuz
             controller.setView(view);
 
             Application.Run((Form)view);
-
+            //Hallo!_!
             //Hallo!
         }
     }
