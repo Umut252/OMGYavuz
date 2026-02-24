@@ -30,6 +30,7 @@ namespace OMGYavuz
             Application.Run((Form)view);
 
             //Hallo!
+            Test
         }
     }
 }
